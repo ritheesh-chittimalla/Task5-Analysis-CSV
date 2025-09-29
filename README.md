@@ -1,4 +1,4 @@
-📊 Sales Data Analysis (CSV)
+**📊 Sales Data Analysis (CSV)**
 
 A simple Python project to analyze sales data stored in CSV files.
 This project uses Pandas for data analysis and Matplotlib for data visualization.
@@ -13,14 +13,14 @@ Monthly sales trends (if a Date column exists)
 
 Charts (bar, pie, and line graphs)
 
-📂 Project Structure
+**📂 Project Structure**
 Analysis-CSV/
 │── sales-analysis.py     # Python script for analysis
 │── sales.csv             # Sample CSV data
 │── requirements.txt      # Python dependencies
 │── README.md             # Project documentation
 
-🛠️ Requirements
+**🛠️ Requirements**
 
 Before running this project, make sure you have:
 
@@ -29,15 +29,14 @@ Python 3.8+ installed (Download Python
 
 Pip package manager installed
 
-🚀 Installation & Setup
-
+**🚀 Installation & Setup**
 Follow these steps to set up the project on your machine:
 
-1️⃣ Clone the Repository
+**1️⃣ Clone the Repository**
 git clone https://github.com/your-username/Analysis-CSV.git
 cd Analysis-CSV
 
-2️⃣ Create a Virtual Environment (recommended)
+**2️⃣ Create a Virtual Environment (recommended)**
 python -m venv venv
 
 
@@ -52,13 +51,13 @@ Mac/Linux (bash/zsh):
 
 source venv/bin/activate
 
-3️⃣ Install Dependencies
+**3️⃣ Install Dependencies**
 pip install -r requirements.txt
 
-4️⃣ Run the Script
+**4️⃣ Run the Script**
 python sales-analysis.py
 
-📊 Example Dataset
+**📊 Example Dataset**
 
 The project includes a sample sales.csv file for testing:
 
@@ -76,11 +75,11 @@ Date,Product,Region,Sales
 2025-01-22,Phone,East,1100
 2025-01-25,Tablet,West,500
 
-📈 Output
+**📈 Output**
 
 When you run the script, you will get:
 
-✅ In Terminal
+**✅ In Terminal**
 
 Total Sales
 
@@ -94,7 +93,7 @@ Sales by Region
 
 Monthly Sales Trend (if Date exists)
 
-📊 Visualizations (pop-up charts)
+**📊 Visualizations (pop-up charts)**
 
 Sales by Product – Bar Chart
 
@@ -102,8 +101,7 @@ Sales by Region – Pie Chart
 
 Monthly Sales Trend – Line Chart
 
-🔧 Customization
-
+**🔧 Customization**
 You can replace sales.csv with your own dataset, but make sure it has at least these columns:
 
 Date (optional, for trend analysis)
