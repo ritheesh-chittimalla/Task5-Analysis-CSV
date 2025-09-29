@@ -102,6 +102,8 @@ Sales by Region – Pie Chart
 Monthly Sales Trend – Line Chart
 
 **🔧 Customization**
+
+
 You can replace sales.csv with your own dataset, but make sure it has at least these columns:
 
 Date (optional, for trend analysis)
