@@ -33,7 +33,7 @@ Pip package manager installed
 Follow these steps to set up the project on your machine:
 
 **1️⃣ Clone the Repository**
-git clone https://github.com/ritheesh-chittimalla//Analysis-CSV.git
+git clone https://github.com/your-username//Analysis-CSV.git
 cd Analysis-CSV
 
 **2️⃣ Create a Virtual Environment (recommended)**
